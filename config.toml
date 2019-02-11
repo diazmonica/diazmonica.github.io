@@ -1,0 +1,30 @@
+baseURL = "https://www.monicadiaz.me/"
+languageCode = "en-us"
+title = "Mónica Díaz"
+contentdir = "content"
+publishdir = "diazmonica.github.io"
+builddrafts = false
+canonifyurls = true
+author = "Mónica Díaz"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+theme="hugo-uno"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Mónica Díaz"
+  github = "diazmonica"
+  #bitbucket = "floch"
+  #flickr = "senjin"
+  twitter = "mmonicdiaz"
+  email = "dmonicamariela@gmail.com"
+  description = "Live as if you were to die tomorrow.Learn as if you were to live forever"
+  cv = "/pages/cv"
+ # legalnotice = "/pages/legal-notice"
+# facebook=""
+  #muut = "Mónica Díaz"
+  linkedin = "mónica-mariela-díaz-ruíz-a78a2b85"
+  cover = "/img/background-cover.jpg"
+  logo = "/img/Monica_Diaz.jpg"
+
