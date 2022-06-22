@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Mónica Díaz</title>
-    <link>https://www.monicadiaz.me/pages/</link>
-    <description>Recent content in Pages on Mónica Díaz</description>
+    <title>Pages on Monica Diaz</title>
+    <link>http://monicadiaz.me/pages/</link>
+    <description>Recent content in Pages on Monica Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.monicadiaz.me/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jun 2022 20:47:08 -0700</lastBuildDate><atom:link href="http://monicadiaz.me/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My CV</title>
-      <link>https://www.monicadiaz.me/pages/cv/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://monicadiaz.me/pages/cv/</link>
+      <pubDate>Tue, 21 Jun 2022 20:47:08 -0700</pubDate>
       
-      <guid>https://www.monicadiaz.me/pages/cv/</guid>
-      <description>I don&amp;rsquo;t want to change the world just I want to change the way we interact with it and programming is a good way to accomplish it. I wake up and challenge myself to imagine new solutions for real-world problems and create them by analyzing data and writing new lines of code.
-Experience BoxOfDocs | Quality Assurance Tester	(Sept 2019 – presente) Genética Salvadoreña| Remote Junior Database Administrator	(Jan 2019 – Sept 2019)  Database administration System updates Development of reports  Genética Salvadoreña | IT Leader	(Nov 2015– Dec 2018)  Coordinator in the implementation of SAP Business One Adaptation of SAP B1 to the needs and processes of the business (Human Resources, Inventory Logistics, Production, Sales, CRM, Finance) Taking of requirements (GENSA processes) and manual quality tests of the implementation carried out and of the developments after the production of SAP B1 Development of planning component in SAP B1 specific to the business Train end users and prepare user manuals Junior Database Administrator Generation of reports for making key business decisions In charge of the corrective and preventive maintenance of the Informatic equipment Technical assistance with digital marketing strategies Automatic web tests Design and implementation of static websites  Others  Leader of the quality management system (ISO 9001: 2015 Standard) Assistant in the inventory, financial and accounting part of the company  Data Systems | Computer Teacher	(Jan 2015 - Oct 2015)  Teach seniors (50-60 years old) and teenagers different software tools (Ex: Microsoft Office, Ilustrator, Photoshop, html, Bootstrap ,maintenance hardware, java, etc)  Administrator of the computer center  Preventive and corrective maintenance of computer equipment  Precilab | Software development	(Jan 2014 - Dec 2014)  Development and implementation of a Record for a clinical laboratory using the JAVA and MYSQL database Work with all the system cycle including automate testing.</description>
+      <guid>http://monicadiaz.me/pages/cv/</guid>
+      <description>Experience Rentmoola | Junior QA Analyst (Sept 2021 – presente)  QA activities  BoxOfDocs | Quality Assurance Tester (Sept 2019 – Agust 2021)  QA activities  Genética Salvadoreña| Remote Junior Database Administrator (Jan 2019 – Sept 2019)  Database administration System updates Development of reports  Genética Salvadoreña | IT Leader (Nov 2015– Dec 2018)  Coordinator in the implementation of SAP Business One Adaptation of SAP B1 to the needs and processes of the business (Human Resources, Inventory Logistics, Production, Sales, CRM, Finance) Taking of requirements (GENSA processes) and manual quality tests of the implementation carried out and of the developments after the production of SAP B1 Development of planning component in SAP B1 specific to the business Train end users and prepare user manuals  Junior Database Administrator  Generation of reports for making key business decisions In charge of the corrective and preventive maintenance of the Informatic equipment Technical assistance with digital marketing strategies Automatic web tests Design and implementation of static websites  Others</description>
     </item>
     
   </channel>

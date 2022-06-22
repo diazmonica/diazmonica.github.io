@@ -1,28 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Mónica Díaz on Mónica Díaz </title>
+      <title>Monica Diaz on Monica Diaz </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://www.monicadiaz.me/</link>
+    <link>http://monicadiaz.me/</link>
     <language>en-us</language>
     
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <updated>Mon, 11 Feb 2019 00:00:00 UTC</updated>
+    
+    <updated>Tue, 21 Jun 2022 20:47:08 PDT</updated>
     
     <item>
       <title>Pages</title>
-      <link>https://www.monicadiaz.me/pages/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 UTC</pubDate>
+      <link>http://monicadiaz.me/pages/</link>
+      <pubDate>Tue, 21 Jun 2022 20:47:08 PDT</pubDate>
       
-      <guid>https://www.monicadiaz.me/pages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid></guid>
+      <guid>http://monicadiaz.me/pages/</guid>
       <description></description>
     </item>
     
