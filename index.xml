@@ -2,7 +2,7 @@
   <channel>
       <title>Monica Diaz on Monica Diaz </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://monicadiaz.me/</link>
+    <link>https://monicadiaz.me/</link>
     <language>en-us</language>
     
     
@@ -10,10 +10,10 @@
     
     <item>
       <title>Pages</title>
-      <link>http://monicadiaz.me/pages/</link>
+      <link>https://monicadiaz.me/pages/</link>
       <pubDate>Tue, 21 Jun 2022 20:47:08 PDT</pubDate>
       
-      <guid>http://monicadiaz.me/pages/</guid>
+      <guid>https://monicadiaz.me/pages/</guid>
       <description></description>
     </item>
     
