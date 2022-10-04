@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Monica Diaz</title>
-    <link>https:///www.monicadiaz.me/pages/</link>
+    <link>https://www.monicadiaz.me/pages/</link>
     <description>Recent content in Pages on Monica Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 20:47:08 -0700</lastBuildDate><atom:link href="https:///www.monicadiaz.me/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 20:47:08 -0700</lastBuildDate><atom:link href="https://www.monicadiaz.me/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https:///www.monicadiaz.me/pages/cv/</link>
+      <link>https://www.monicadiaz.me/pages/cv/</link>
       <pubDate>Tue, 21 Jun 2022 20:47:08 -0700</pubDate>
       
-      <guid>https:///www.monicadiaz.me/pages/cv/</guid>
-      <description>Experience Rentmoola | Junior QA Analyst (Sept 2021 – presente)  QA activities  BoxOfDocs | Quality Assurance Tester (Sept 2019 – Agust 2021)  QA activities  Genética Salvadoreña| Remote Junior Database Administrator (Jan 2019 – Sept 2019)  Database administration System updates Development of reports  Genética Salvadoreña | IT Leader (Nov 2015– Dec 2018)  Coordinator in the implementation of SAP Business One Adaptation of SAP B1 to the needs and processes of the business (Human Resources, Inventory Logistics, Production, Sales, CRM, Finance) Taking of requirements (GENSA processes) and manual quality tests of the implementation carried out and of the developments after the production of SAP B1 Development of planning component in SAP B1 specific to the business Train end users and prepare user manuals  Junior Database Administrator  Generation of reports for making key business decisions In charge of the corrective and preventive maintenance of the Informatic equipment Technical assistance with digital marketing strategies Automatic web tests Design and implementation of static websites  Others</description>
+      <guid>https://www.monicadiaz.me/pages/cv/</guid>
+      <description>Experience QA Insurance Analyst | Payslate (Sept 2021 – presente)  Reduced test execution time by 75% by automating the API platform used by customers who integrate their system with the LETUS platform using Robot Framework and Selenium Coordinated QA activities for the for the payment processor migration of the main product, working with technical and non-technical business owners Developed and maintained automated scripts with python to improve the regression test cycle for UI main functionalities Performed mobile testing using BrowserStack platform and Databases testing using SQL Assisted with continued improvement of the performance testing process using JMeter Coordinated Junior QA member&amp;rsquo;s activities during the testing cycle Worked on the testing cycle.</description>
     </item>
     
   </channel>
